@@ -6,3 +6,5 @@ https://relay.titcm.com.br/live/95fm.m3u8
 https://relay.titcm.com.br/live/98fm.m3u8
 #EXTINF:-1 tvg-id="RADIO 90 FM" tvg-name="RADIO 90 FM" tvg-logo="https://radio.titcm.com.br/static/uploads/radio_90_fm/album_art.1759325717.png" group-title="RADIOS"
 https://relay.titcm.com.br/live/90fm.m3u8
+#EXTINF:-1 tvg-id="TCM CANAL 10" tvg-name="TCM CANAL 10" tvg-logo="https://static.wixstatic.com/media/87d91f_3c715710999a4118beb1104d6cbd8dee~mv2.png/v1/crop/x_1,y_0,w_1066,h_417/fill/w_125,h_45,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/logo_branca2.png" group-title="RADIOS"
+https://relay.titcm.com.br/live/tcm10hd.m3u8
