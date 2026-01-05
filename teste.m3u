@@ -1,0 +1,10 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E HD" tvg-logo="https://img.slimtv.xyz/imagens/canais/AandE.png" group-title="FILMES E SERIES",A&E HD
+http://cabide.top:80/779830184/229306581/45225.ts
+#EXTINF:-1 tvg-id="A&E SD" tvg-name="A&E SD" tvg-logo="https://img.slimtv.xyz/imagens/canais/AandE.png" group-title="FILMES E SERIES",A&E SD
+http://cabide.top:80/779830184/229306581/45226.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro Canal HD" tvg-logo="https://img.slimtv.xyz/imagens/canais/Agro.png" group-title="ABERTOS",Agro Canal HD
+http://cabide.top:80/779830184/229306581/44926.ts
+#EXTINF:-1 tvg-id="agromais.br" tvg-name="Agro+ HD" tvg-logo="https://img.slimtv.xyz/imagens/canais/Agro.png" group-title="ABERTOS",Agro+ HD
+http://cabide.top:80/779830184/229306581/44927.ts
